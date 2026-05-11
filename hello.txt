@@ -1,1 +1,3 @@
 this was automate the GitHub book
+
+last time error now cheking
